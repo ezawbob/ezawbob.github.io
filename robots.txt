@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://ezawbob.github.io/sitemap/sitemap.txt
